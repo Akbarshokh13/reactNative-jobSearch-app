@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "react-native-job-search-app",
+    "extra": {
+      "eas": {
+        "projectId": "11b82bce-313f-41c8-b704-5309d22b3e73"
+      }
+    },
+    "owner": "akbarshokh13"
+  }
+}
